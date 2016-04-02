@@ -1,0 +1,2 @@
+test:
+	@rspec test.rb
